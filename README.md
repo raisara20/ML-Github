@@ -1,5 +1,7 @@
 # ML-Github
 
+![logo](https://github.com/dhimasalfathi/SavePlate-CC/raw/master/saveplate.jpg?raw=true)
+
 # Our Dataset
 [Download Here](https://drive.google.com/file/d/1gYYiaKWv3vfD9b6kP73HzFf9RAcfbzri/view?usp=sharing)
 
